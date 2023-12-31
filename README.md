@@ -2,6 +2,19 @@
 
 This MATLAB project implements a Fuzzy Logic System (FIS) to predict the taste of rice based on a given dataset. The FIS is designed to model the taste as the output, utilizing various input variables, such as stickiness.
 
+
+## How to Use
+
+Follow these steps to utilize the Rice Taste Prediction Fuzzy Logic System:
+
+1. **Opening the GUI:**
+   - Run the `app.mlapp` file to access the graphical user interface (GUI).
+
+2. **Evaluating Results:**
+   - provide inputs in the 4 text fields and click enter (all inputs must be in the correct range or else you will get a warning in the console).
+
+Utilize the provided GUI and scripts to streamline the process of taste prediction and explore the functionalities for your specific use case.
+
 ## Directory Overview
 
 - **app.mlapp:** Graphical User Interface (GUI) for the FIS.
