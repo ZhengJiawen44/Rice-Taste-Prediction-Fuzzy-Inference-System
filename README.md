@@ -1,5 +1,5 @@
 # Video Showcase
-A longer video with audio can be accessed here: [here](https://youtu.be/Mg677NKIXgU?feature=shared).
+## A longer video with audio can be accessed [here](https://youtu.be/Mg677NKIXgU?feature=shared).
 
 ![short-gif-demo](shortDemo.gif)
 # Rice Taste Prediction with Fuzzy Logic System
