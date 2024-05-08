@@ -1,5 +1,5 @@
 
-![short-gif-demo]([https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif](https://github.com/ZhengJiawen44/Rice-Taste-Prediction-Fuzzy-Inference-System/blob/main/shortDemo.gif))
+![short-gif-demo](shortDemo.gif))
 # Rice Taste Prediction with Fuzzy Logic System
 
 This MATLAB project implements a Fuzzy Logic System (FIS) to predict the taste of rice based on a given dataset. The FIS is designed to model the taste as the output, utilizing various input variables, such as stickiness.
